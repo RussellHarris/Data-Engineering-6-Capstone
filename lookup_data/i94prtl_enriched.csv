@@ -1,0 +1,698 @@
+ID,NAME,us_city,us_state_code,SOURCE
+60,No PORT Code (60),,,Udacity
+888,UNIDENTIFED AIR / SEAPORT,,,Udacity
+.GA,No PORT Code (.GA),,,Udacity
+48Y,"PINECREEK BORDER ARPT, MN",PINECREEK,MN,Udacity
+5KE,"KETCHIKAN, AK",KETCHIKAN,AK,Udacity
+5T6,No PORT Code (5T6),,,Udacity
+74S,No PORT Code (74S),,,Udacity
+A2A,No PORT Code (A2A),,,Udacity
+ABE,"Aberdeen, WA",Aberdeen,WA,State Department
+ABG,"Alburg, VT",Alburg,VT,State Department
+ABQ,"Albuquerque, NM",Albuquerque,NM,State Department
+ABS,"Alburg Springs, VT",Alburg Springs,VT,State Department
+ACY,"POMONA FIELD - ATLANTIC CITY, NJ",ATLANTIC CITY,NJ,Udacity
+ADS,"ADDISON AIRPORT- ADDISON, TX",ADDISON,TX,Udacity
+ADT,"Amistad Dam, TX",Amistad Dam,TX,State Department
+ADU,No PORT Code (ADU),,,Udacity
+ADW,"ANDREWS AFB, MD",ANDREWS AFB,MD,Udacity
+AFW,"FORT WORTH ALLIANCE, TX",FORT WORTH,TX,Udacity
+AG,No PORT Code (AG),,,Udacity
+AG0,"MAGNOLIA, AR",MAGNOLIA,AR,Udacity
+AGA,"Agana, Guam",,,State Department
+AGM,"Algoma, WI",Algoma,WI,State Department
+AGN,"Algonac, MI",Algonac,MI,State Department
+AGS,"BUSH FIELD - AUGUSTA, GA",AUGUSTA,GA,Udacity
+AGU,"Mayaguez, PR",Mayaguez,PR,State Department
+AKR,"Akron, OH",Akron,OH,State Department
+AKT,No PORT Code (AKT),,,Udacity
+ALA,"ALAMAGORDO, NM (BPS)",ALAMAGORDO,NM,Udacity
+ALB,"Albany, NY",Albany,NY,State Department
+ALC,"Alcan, AK",Alcan,AK,State Department
+ALP,"Alpena, MI",Alpena,MI,State Department
+AMB,"Ambrose, ND",Ambrose,ND,State Department
+AMS,"AMSTERDAM-SCHIPHOL, NETHERLANDS",,,Udacity
+AMT,No PORT Code (AMT),,,Udacity
+ANA,"Anacortes, WA",Anacortes,WA,State Department
+ANC,"Anchorage, AK",Anchorage,AK,State Department
+AND,"Andrade, CA",Andrade,CA,State Department
+ANP,"Antelope Wells, NM",Antelope Wells,NM,State Department
+ANT,"Antler, ND",Antler,ND,State Department
+ANZ,"Anzaldaus, TX",Anzaldaus,TX,State Department
+APA,"ARAPAHOE COUNTY, CO",Centennial,CO,Udacity
+APF,"NAPLES, FL #ARPT",NAPLES,FL,Udacity
+ARB,"ARUBA, NETH ANTILLES",,,Udacity
+ARU,Aruba,,,State Department
+ASE,"ASPEN, CO #ARPT",ASPEN,CO,Udacity
+ASI,No PORT Code (ASI),,,Udacity
+AST,"Astoria, OR",Astoria,OR,State Department
+ATB,"Ashtabula, OH",Ashtabula,OH,State Department
+ATL,"Atlanta, GA",Atlanta,GA,State Department
+ATW,"Appleton, WI",Appleton,WI,State Department
+AUH,No PORT Code (AUH),,,Udacity
+AUS,"Austin, TX",Austin,TX,State Department
+AXB,"Alexandria Bay, NY",Alexandria Bay,NY,State Department
+BAL,"Baltimore, MD",Baltimore,MD,State Department
+BAN,"BANKOK, THAILAND",,,Udacity
+BAR,"BAKER AAF - BAKER ISLAND, AK",BAKER ISLAND,AK,Udacity
+BAU,"Baudette, MN",Baudette,MN,State Department
+BAY,"Bayfield, WI",Bayfield,WI,State Department
+BBM,"Brownsville, B&M Bridge",Brownsville,TX,State Department
+BBP,"BIG BEND PARK, TX (BPS)",Presidio,TX,Udacity
+BCK,"Bucksport, ME",Bucksport,ME,State Department
+BCM,"Battle Creek and Kalamazoo County Airport, MI",Portage,MI,State Department
+BCY,"Bay City, MI",Bay City,MI,State Department
+BDA,"KINDLEY FIELD, BERMUDA",,,Udacity
+BDL,"BRADLEY INTERNATIONAL, CT",Windsor Locks,CT,Udacity
+BEA,"Beaumont, TX",Beaumont,TX,State Department
+BEB,"Beebe Plain, VT",Beebe Plain,VT,State Department
+BED,"HANSCOM FIELD - BEDFORD, MA",BEDFORD,MA,Udacity
+BEE,"Beecher Falls, VT",Beecher Falls,VT,State Department
+BEI,"BEICA #ARPT, ETHIOPIA",,,Udacity
+BEL,"Bellingham, WA",Bellingham,WA,State Department
+BFL,"MEADOWS FIELD - BAKERSFIELD, CA",BAKERSFIELD,CA,Udacity
+BGC,"Bridgeport, CT",Bridgeport,CT,State Department
+BGM,"Bangor, ME",Bangor,ME,State Department
+BHM,"Bar Harbor, ME ÊÊ Ferry Terminal",Bar Harbor,ME,State Department
+BHX,"BIRMINGHAM, AL",BIRMINGHAM,AL,Udacity
+BIL,"Billings, MT",Billings,MT,State Department
+BKF,No PORT Code (BKF),,,Udacity
+BLA,"Blaine, WA",Blaine,WA,State Department
+BLF,"MERCER COUNTY, WV",Bluefield,WV,Udacity
+BLI,"BELLINGHAM, WASHINGTON #INTL",BELLINGHAM,WA,Udacity
+BLT,"PACIFIC, HWY. STATION, CA",San Diego,CA,Udacity
+BOA,"El Paso, TX Bridge of Americas",El Paso,TX,State Department
+BOC,"Boca Grande, FL",Boca Grande,FL,State Department
+BOG,"BOGOTA, EL DORADO #ARPT, COLOMBIA",,,Udacity
+BOI,"AIR TERM. (GOWEN FLD) BOISE, ID",BOISE,ID,Udacity
+BOO,"Boothbay Harbor, ME",Boothbay Harbor,ME,State Department
+BOS,"Boston, MA",Boston,MA,State Department
+BQN,"BORINQUEN - AGUADILLO, PR",AGUADILLO,PR,Udacity
+BRG,"Burlington, VT",Burlington,VT,State Department
+BRO,"Brownsville, TX",Brownsville,TX,State Department
+BRU,"Brunswick, GA",Brunswick,GA,State Department
+BTC,"BP TACTICAL UNIT, TX",El Paso,TX,Udacity
+BTM,"Butte, MT",Butte,MT,State Department
+BTN,"Baton Rouge, LA",Baton Rouge,LA,State Department
+BUF,"Buffalo, NY",Buffalo,NY,State Department
+BUR,"BURBANK, CA",BURBANK,CA,Udacity
+BUS,Collapsed (BUF) 06/15,Buffalo,NY,Udacity
+BWA,"Boundary, WA",Boundary,WA,State Department
+BWM,"Bridgewater, ME",Bridgewater,ME,State Department
+BYO,"BAYONNE, NJ",BAYONNE,NJ,Udacity
+BZN,"GALLATIN FIELD - BOZEMAN, MT",BOZEMAN,MT,Udacity
+CAE,"COLUMBIA, SC #ARPT",COLUMBIA,SC,Udacity
+CAK,"AKRON, OH",AKRON,OH,Udacity
+CAL,"Calexico, CA",Calexico,CA,State Department
+CAN,"Cape Canaveral, FL",Cape Canaveral,FL,State Department
+CAO,"CAMPO, CA",CAMPO,CA,Udacity
+CAP,"Cape Vincent, NY",Cape Vincent,NY,State Department
+CAR,"CARIBOU MUNICIPAL AIRPORT, MN",Caribou,MN,Udacity
+CBH,"Churubusco, IN",Churubusco,IN,State Department
+CDD,"CRANE LAKE - ST. LOUIS CNTY, NM",Crane Lake,NM,Udacity
+CHA,"Charlotte Amalie, St. Thomas, VI",Charlotte Amalie,VI,State Department
+CHF,"Chief Mountain, MT",Chief Mountain,MT,State Department
+CHI,"Chicago, IL",Chicago,IL,State Department
+CHL,"Charleston, SC",Charleston,SC,State Department
+CHM,"Champlain, NY",Champlain,NY,State Department
+CHN,No PORT Code (CHN),,,Udacity
+CHO,"ALBEMARLE CHARLOTTESVILLE, VA",Charlottesville,VA,Udacity
+CHR,"Christiansted, St. Croix, VI",Christiansted,VI,State Department
+CHS,"CHARLESTON, WV",CHARLESTON,WV,Udacity
+CHT,"Chateaugay, NY",Chateaugay,NY,State Department
+CID,"CEDAR RAPIDS/IOWA CITY, IA",Cedar Rapids,IA,Udacity
+CIN,"Cincinnati, OH",Cincinnati,OH,State Department
+CLA,"Clayton, NY",Clayton,NY,State Department
+CLE,"Cleveland, OH",Cleveland,OH,State Department
+CLG,"Calgary, Alberta Canada",,,State Department
+CLK,"CLARKSBURG, WV",CLARKSBURG,WV,Udacity
+CLM,"COLUMBUS, OH",COLUMBUS,OH,Udacity
+CLS,"Calais, ME",Calais,ME,State Department
+CLT,"Charlotte, NC",Charlotte,NC,State Department
+CLX,No PORT Code (CLX),,,Udacity
+CNA,"Canaan, VT",Canaan,VT,State Department
+CNC,"Cannon Corners, NY",Cannon Corners,NY,State Department
+CND,"KOGALNICEANU, ROMANIA",,,Udacity
+CNH,"CANNON CORNERS, NY",CANNON CORNERS,NY,Udacity
+CNJ,"Camden, NJ",Camden,NJ,State Department
+COB,"Coburn Gore, ME",Coburn Gore,ME,State Department
+COL,"Columbus, NM",Columbus,NM,State Department
+COO,"Coos Bay, OR",Coos Bay,OR,State Department
+COR,"Corpus Christi, TX",Corpus Christi,TX,State Department
+COS,"COLORADO SPRINGS, CO",COLORADO SPRINGS,CO,Udacity
+COW,"HQ, Washington DC",Washington,DC,State Department
+CP,No PORT Code (CP),,,Udacity
+CPX,No PORT Code (CPX),,,Udacity
+CRA,"Crane Lake, MN",Crane Lake,MN,State Department
+CRB,"Caribou, ME",Caribou,ME,State Department
+CRL,"CARLSBAD, NM",CARLSBAD,NM,Udacity
+CRP,"CORPUS CHRISTI, TX",CORPUS CHRISTI,TX,Udacity
+CRQ,"CARAVELAS, BA #ARPT, BRAZIL",,,Udacity
+CRU,"Cruz Bay, St. John, VI",Cruz Bay,VI,State Department
+CRY,"Carbury, ND",Carbury,ND,State Department
+CSP,"Casper, WY",Casper,WY,State Department
+CTB,"CUT BANK MUNICIPAL, MT",Cut Bank,MT,Udacity
+CUN,"CANCUN, MEXICO",,,Udacity
+CUR,"CURLEW, WA (BPS)",CURLEW,WA,Udacity
+CUT,"Cut Bank, MT",Cut Bank,MT,State Department
+CXO,No PORT Code (CXO),,,Udacity
+DAA,"DAVISON AAF - FAIRFAX CNTY, VA",Fort Belvoir,VA,Udacity
+DAB,"DAYTONA BEACH INTERNATIONAL, FL",DAYTONA BEACH,FL,Udacity
+DAC,"Dalton Cache, AK",Dalton Cache,AK,State Department
+DAL,"Dallas, TX",Dallas,TX,State Department
+DAY,No PORT Code (DAY),,,Udacity
+DBL,"Dublin, Ireland",,,State Department
+DCA,"Detroit, MI",Detroit,MI,State Department
+DCB,"Detroit, Ambassador Bridge",Detroit,MI,State Department
+DCT,"Detroit, Windsor Tunnel",Detroit,MI,State Department
+DEC,No PORT Code (DEC),,,Udacity
+DEN,"Denver, CO",Denver,CO,State Department
+DER,"Del Rio, TX",Del Rio,TX,State Department
+DET,"Detroit, MI",Detroit,MI,State Department
+DIB,"Detroit, MI",Detroit,MI,State Department
+DLB,"Del Bonita, MT",Del Bonita,MT,State Department
+DLR,"Del Rio, TX",Del Rio,TX,State Department
+DLV,"DERBY LINE, VT (RT. 5)",DERBY LINE,VT,Udacity
+DMA,"Detroit, MI",Detroit,MI,State Department
+DNA,"Donna, TX",Donna,TX,State Department
+DNM,"DEMING, NM (BPS)",DEMING,NM,Udacity
+DNS,"Dunseith, ND",Dunseith,ND,State Department
+DOU,"Douglas, AZ",Douglas,AZ,State Department
+DOV,"DOVER AFB, DE",DOVER,DE,Udacity
+DPA,"DUPAGE COUNTY, IL",Chicago,IL,Udacity
+DRO,"LA PLATA - DURANGO, CO",Durango,CO,Udacity
+DRV,No PORT Code (DRV),,,Udacity
+DSM,"Des Moines, IA",Des Moines,IA,State Department
+DTH,"DUTCH HARBOR, AK",DUTCH HARBOR,AK,Udacity
+DUB,"DUBLIN, IRELAND",,,Udacity
+DUL,"Duluth, MN",Duluth,MN,State Department
+DUR,"LOUIS BOTHA, SOUTH AFRICA",,,Udacity
+DVD,"Dover, AFB DE",Dover,DE,State Department
+DVL,"Danville, WA",Danville,WA,State Department
+EDA,"Edmonton, AB Canada",,,State Department
+EDN,"South Texas, IAP at Edinburg",Edinburg,TX,State Department
+EGE,No PORT Code (EGE),,,Udacity
+EGL,"EAGLE, AK",EAGLE,AK,Udacity
+EGP,"Eagle Pass, TX",Eagle Pass,TX,State Department
+ELM,"REGIONAL ARPT - HORSEHEAD, NY",HORSEHEAD,NY,Udacity
+ELP,"El Paso, TX",El Paso,TX,State Department
+ELY,"Ely, MN",Ely,MN,State Department
+ENS,"Ensenada, PR",Ensenada,PR,State Department
+EPI,"Eastport, ID",Eastport,ID,State Department
+EPM,"Eastport, ME",Eastport,ME,State Department
+EPT,"EASTPORT MUNICIPAL, ME",EASTCOURT,ME,Udacity
+ERC,"East Richford, VT",East Richford,VT,State Department
+ERI,"Erie, PA",Erie,PA,State Department
+EST,"EASTCOURT, ME",EASTCOURT,ME,Udacity
+EUR,"EUREKA, MT (BPS)",EUREKA,MT,Udacity
+EVE,"Everett, WA",Everett,WA,State Department
+EZE,"BUENOS AIRES, MINISTRO PIST, ARGENTINA",,,Udacity
+FAB,"Fabens, TX",Fabens,TX,State Department
+FAJ,"Fajardo, PR",Fajardo,PR,State Department
+FAL,"Falcon Dam, TX",Falcon Dam,TX,State Department
+FAR,"Fargo, ND",Fargo,ND,State Department
+FAY,"FAYETTEVILLE, NC",FAYETTEVILLE,NC,Udacity
+FBA,"Freeport, Bahamas",,,State Department
+FCA,"GLACIER NATIONAL PARK, MT",West Glacier,MT,Udacity
+FDE,"Eagle Pass, Fort Duncan Bridge",Eagle Pass,TX,State Department
+FER,"Ferry, WA",Ferry,WA,State Department
+FHK,"Fort Hancock, TX",Fort Hancock,TX,State Department
+FLX,"FALLON MUNICIPAL AIRPORT, NV",FALLON,NV,Udacity
+FMY,"FORT MYERS, FL",FORT MYERS,FL,Udacity
+FOK,"SUFFOLK COUNTY, NY",Long Island,NY,Udacity
+FOP,"MORRIS FIELDS AAF, NC",Charlotte,NC,Udacity
+FOR,"FOREST CITY, ME",FOREST CITY,ME,Udacity
+FOU,"FOUGAMOU #ARPT, GABON",,,Udacity
+FPF,"FORT PIERCE, FL",FORT PIERCE,FL,Udacity
+FPR,"ST LUCIE COUNTY, FL",Fort Pierce,FL,Udacity
+FPT,"Freeport, TX",Freeport,TX,State Department
+FRB,"Fairbanks, AK",Fairbanks,AK,State Department
+FRE,"Fresno, CA",Fresno,CA,State Department
+FRG,Collapsed (FOK) 06/15,Long Island,NY,Udacity
+FRI,"Friday Harbor, WA",Friday Harbor,WA,State Department
+FRK,"Frederiksted, St. Croix, VI",Frederiksted,VI,State Department
+FRN,"Fernandina, FL",Fernandina,FL,State Department
+FRT,"Fortuna, ND",Fortuna,ND,State Department
+FSC,No PORT Code (FSC),,,Udacity
+FTB,No PORT Code (FTB),,,Udacity
+FTC,"Fort Covington, NY",Fort Covington,NY,State Department
+FTF,"Fort Fairfield, ME",Fort Fairfield,ME,State Department
+FTH,"Fort Hancock, NM",Fort Hancock,NM,State Department
+FTK,"Fort Kent, ME",Fort Kent,ME,State Department
+FTL,"Fort Lauderdale, FL",Fort Lauderdale,FL,State Department
+FTM,"Fort Meyers, FL",Fort Meyers,FL,State Department
+FTP,"Fort Pierce, FL",Fort Pierce,FL,State Department
+FWA,"Frontier, WA",Frontier,WA,State Department
+GAC,No PORT Code (GAC),,,Udacity
+GAL,"Galveston, TX",Galveston,TX,State Department
+GAR,"Gary, IN",Gary,IN,State Department
+GCM,"GRAND CAYMAN, CAYMAN ISLAND",,,Udacity
+GDL,"GUADALAJARA, MIGUEL HIDAL, MX",,,Udacity
+GEO,"Georgetown, SC",Georgetown,SC,State Department
+GGW,"Glasgow, MT",Glasgow,MT,State Department
+GLO,"Gloucester, MA",Gloucester,MA,State Department
+GLP,"Gulfport, MS",Gulfport,MS,State Department
+GMT,No PORT Code (GMT),,,Udacity
+GNV,"J R ALISON MUNI - GAINESVILLE, FL",GAINESVILLE,FL,Udacity
+GPI,No PORT Code (GPI),,,Udacity
+GPM,"Grand Portage, MN",Grand Portage,MN,State Department
+GPT,"BILOXI REGIONAL, MS",Gulfport,MS,Udacity
+GRB,"Green Bay, WI",Green Bay,WI,State Department
+GRE,"Great Falls, MT",Great Falls,MT,State Department
+GRF,"Grand Forks, ND",Grand Forks,ND,State Department
+GRO,"Grosse Isle, MI",Grosse Isle,MI,State Department
+GRP,"Grand Rapids, MI Kent County Intl Airport",Grand Rapids,MI,State Department
+GRR,"Greer, SC",Greer,SC,State Department
+GRT,"Groton, CT",Groton,CT,State Department
+GRU,"GUARULHOS INTL, SAO PAULO, BRAZIL",,,Udacity
+GSN,"Saipan Island, Saipan Intl Arpt, MP, USA",Saipan,MP,State Department
+GSO,"PIEDMONT TRIAD INTL AIRPORT, NC",Greensboro,NC,Udacity
+GSP,"GREENVILLE, SC",GREENVILLE,SC,Udacity
+GTF,"Collapsed into INT, MN",Great Falls,MT,Udacity
+GTR,"GOLDEN TRIANGLE LOWNDES CNTY, MS",COLUMBUS,MS,Udacity
+GTW,"Brownsville, Gateway Bridge",Brownsville,TX,State Department
+GUL,"Gulfport, MS",Gulfport,MS,State Department
+HAI,"Haines, AK",Haines,AK,State Department
+HAL,"Halifax, Nova Scotia",,,State Department
+HAM,"Hamilton, Bermuda",,,State Department
+HAR,"Harrisburg, PA",Harrisburg,PA,State Department
+HEF,"MANASSAS, VA #ARPT",MANASSAS,VA,Udacity
+HEL,"Helena, MT",Helena,MT,State Department
+HHW,"Honolulu, HI",Honolulu,HI,State Department
+HID,"Hidalgo, TX",Hidalgo,TX,State Department
+HIG,"Highgate Springs, VT",Highgate Springs,VT,State Department
+HIL,"SHILLAVO, ETHIOPIA",,,Udacity
+HIO,"HILLSBORO, OR",HILLSBORO,OR,Udacity
+HLG,"Harlingen, TX",Harlingen,TX,State Department
+HML,"Hamlin, ME",Hamlin,ME,State Department
+HMM,"Hammond, IN",Hammond,IN,State Department
+HMO,"GEN PESQUEIRA GARCIA, MX",,,Udacity
+HNN,"Hannah, ND",Hannah,ND,State Department
+HNS,"Hansboro, ND",Hansboro,ND,State Department
+HOB,"Hoboken, NJ",Hoboken,NJ,State Department
+HOM,"Homer, AK",Homer,AK,State Department
+HON,"HOWES REGIONAL ARPT - HURON, SD",HURON,SD,Udacity
+HOP,"Hopewell, VA",Hopewell,VA,State Department
+HOU,"Houston, TX",Houston,TX,State Department
+HPN,"WESTCHESTER - WHITE PLAINS, NY",WHITE PLAINS,NY,Udacity
+HRL,Collapsed (HLG) 06/15,Harlingen,TX,Udacity
+HSB,"Harrisburg, PA",Harrisburg,PA,State Department
+HSV,"MADISON COUNTY - HUNTSVILLE, AL",HUNTSVILLE,AL,Udacity
+HTM,"Houlton, ME",Houlton,ME,State Department
+HUM,"Humacao, PR",Humacao,PR,State Department
+HUR,"HURLBURT FIELD, FL",HURLBURT FIELD,FL,Udacity
+HVR,"Wild Horse, MT",Wild Horse,MT,State Department
+HYD,"Hyder, AK",Hyder,AK,State Department
+IAG,Collapsed (NIA) 06/15,Niagara Falls,NY,Udacity
+ICN,"INCHON, SEOUL KOREA",,,Udacity
+ICP,"IMPERIAL COUNTY, CA",Imperial,CA,Udacity
+ICT,"MID-CONTINENT - WITCHITA, KS",WITCHITA,KS,Udacity
+IDA,"FANNING FIELD - IDAHO FALLS, ID",IDAHO FALLS,ID,Udacity
+IND,Los Indios,Los Indios,TX,State Department
+INL,"Collapsed into INT, MN",International Falls,MN,Udacity
+INP,"Indianapolis, IN",Indianapolis,IN,State Department
+INT,"International Falls, MN",International Falls,MN,State Department
+ISB,"Port Isabel, TX",Port Isabel,TX,State Department
+ISL,"Isle Royale, MI",Isle Royale,MI,State Department
+ISP,Collapsed (FOK) 06/15,Long Island,NY,Udacity
+IVP,"Calexico, Truck Crossing",Calexico,CA,State Department
+IWA,"INVALID - IWAKUNI, JAPAN",,,Udacity
+JAC,"Jacksonville, FL",Jacksonville,FL,State Department
+JAN,"THOMPSON FIELD - JACKSON, MS",JACKSON,MS,Udacity
+JBQ,No PORT Code (JBQ),,,Udacity
+JCP,"CULEBRA - BENJAMIN RIVERA, PR",CULEBRA,PR,Udacity
+JER,"Jersey City, NJ",Jersey City,NJ,State Department
+JFA,No PORT Code (JFA),,,Udacity
+JIG,No PORT Code (JIG),,,Udacity
+JKM,"Jackman, ME",Jackman,ME,State Department
+JMZ,No PORT Code (JMZ),,,Udacity
+JOB,"Jobos, PR",Jobos,PR,State Department
+JSJ,Collapsed (SAJ) 06/15,San Juan,PR,Udacity
+JUN,"Juneau, AK",Juneau,AK,State Department
+KAL,"Kalispell, MT",Kalispell,MT,State Department
+KAN,"Kansas City, MO",Kansas City,MO,State Department
+KET,"Ketchikan, AK",Ketchikan,AK,State Department
+KEY,"Key West, FL",Key West,FL,State Department
+KLM,"Kalama, WA",Kalama,WA,State Department
+KOA,"Kona, HI",Kona,HI,State Department
+LAG,"LA GUARDIA, NY",Queens,NY,Udacity
+LAH,"LABUHA ARPT, INDONESIA",,,Udacity
+LAK,"LAKE CHARLES, LA (BPS)",LAKE CHARLES,LA,Udacity
+LAN,"Lancaster, MN",Lancaster,MN,State Department
+LAR,"Laredo, TX Juarez-Lincoln Bridge",Laredo,TX,State Department
+LAS,"LAS CRUCES, NM",LAS CRUCES,NM,Udacity
+LAU,"Laurier, WA",Laurier,WA,State Department
+LCB,"Laredo, Columbia Bridge",Laredo,TX,State Department
+LEB,"Lebanon, ME",Lebanon,ME,State Department
+LEE,"LEESBURG MUNICIPAL AIRPORT, FL",LEESBURG,FL,Udacity
+LEW,"Lewiston, NY",Lewiston,NY,State Department
+LEX,"BLUE GRASS - LEXINGTON, KY",LEXINGTON,KY,Udacity
+LGU,"CACHE AIRPORT - LOGAN, UT",LOGAN,UT,Udacity
+LGW,"WEST SUSSEX, ENGLAND",,,Udacity
+LHR,"MIDDLESEX, ENGLAND",,,Udacity
+LIA,"LITTLE ROCK, AR (BPS)",LITTLE ROCK,AR,Udacity
+LIH,"LIHUE, HI",LIHUE,HI,Udacity
+LIM,"Limestone, ME",Limestone,ME,State Department
+LIN,"NORTHERN SVC CENTER, MN",St. Paul,MN,Udacity
+LIT,No PORT Code (LIT),,,Udacity
+LKC,"Lake Charles, LA",Lake Charles,LA,State Department
+LLB,"Laredo Juarez-Lincoln Bridge 2, TX",Laredo,TX,State Department
+LNB,"Long Beach, CA",Long Beach,CA,State Department
+LND,"LANDER, WY",LANDER,WY,Udacity
+LOB,"LORDSBURG, NM (BPS)",LORDSBURG,NM,Udacity
+LOI,Los Indios,Los Indios,TX,State Department
+LON,"Longview, WA",Longview,WA,State Department
+LOR,"Lorain, OH",Lorain,OH,State Department
+LOS,"Los Angeles, CA",Los Angeles,CA,State Department
+LOU,"Louisville, KY",Louisville,KY,State Department
+LRN,"LAREDO NORTH, TX",LAREDO,TX,Udacity
+LSE,"Los Ebanos, TX",Los Ebanos,TX,State Department
+LUB,"Lubec, ME",Lubec,ME,State Department
+LUK,"Lukeville, AZ",Lukeville,AZ,State Department
+LVG,"Las Vegas, NV",Las Vegas,NV,State Department
+LWT,"Laredo, World Trade Bridge",Laredo,TX,State Department
+LYN,"Lynden, WA",Lynden,WA,State Department
+MAA,Abu Dhabi INTL,,,State Department
+MAD,"Madawaska, ME",Madawaska,ME,State Department
+MAF,"ODESSA REGIONAL, TX",ODESSA,TX,Udacity
+MAG,"McGuire AFB, NJ",McGuire AFB,NJ,State Department
+MAI,"Maida, ND",Maida,ND,State Department
+MAL,"MANGOLE ARPT, INDONESIA",,,Udacity
+MAP,"Mariposa, AZ",Mariposa,AZ,State Department
+MAR,"MARFA, TX",MARFA,TX,Udacity
+MAS,"Massena, NY",Massena,NY,State Department
+MAY,"Mayaguez, PR",Mayaguez,PR,State Department
+MBO,"MARBLE HEADS, OH",MARBLE HEADS,OH,Udacity
+MCA,"MCALLEN, TX",MCALLEN,TX,Udacity
+MCI,"McAllen, TX",McAllen,TX,State Department
+MDE,"MEDELLIN, COLOMBIA",,,Udacity
+MDT,"HARRISBURG, PA",HARRISBURG,PA,Udacity
+MED,"MEDFORD, OR",MEDFORD,OR,Udacity
+MEM,"Memphis, TN",Memphis,TN,State Department
+MET,"Metaline Falls, WA",Metaline Falls,WA,State Department
+MEX,"JUAREZ INTL, MEXICO CITY, MX",,,Udacity
+MGC,"Morgan City, LA",Morgan City,LA,State Department
+MGM,"Morgan, MT",Morgan,MT,State Department
+MHT,"MANCHESTER, NH",MANCHESTER,NH,Udacity
+MIA,"Miami, FL",Miami,FL,State Department
+MIC,"CRYSTAL MUNICIPAL AIRPORT, MN",Minneapolis,MN,Udacity
+MIL,"Milwaukee, WI",Milwaukee,WI,State Department
+MKG,"MUSKEGON, MD",MUSKEGON,MD,Udacity
+MLB,"MELBOURNE, FL",MELBOURNE,FL,Udacity
+MLI,"MOLINE, IL",MOLINE,IL,Udacity
+MLU,"MONROE, LA",MONROE,LA,Udacity
+MMU,"MORRISTOWN, NJ",MORRISTOWN,NJ,Udacity
+MND,"Minot, ND (Int'l Airport)",Minot,ND,State Department
+MNW,"Manitowoc, WI",Manitowoc,WI,State Department
+MOB,"Mobile, AL",Mobile,AL,State Department
+MON,"Montreal, Quebec",,,State Department
+MOO,"Mooers, NY",Mooers,NY,State Department
+MOR,"Morses Line, VT",Morses Line,VT,State Department
+MOS,"MOSES POINT INTERMEDIATE, AK",Elim,AK,Udacity
+MRC,"Marine City, MI",Marine City,MI,State Department
+MRH,"Morehead City, NC",Morehead City,NC,State Department
+MRL,"MERRILLVILLE, IN",MERRILLVILLE,IN,Udacity
+MRR,"Morristown, NY",Morristown,NY,State Department
+MRS,"MARFA, TX (BPS)",MARFA,TX,Udacity
+MRY,"Marysville, MI",Marysville,MI,State Department
+MSN,"TRUAX FIELD - DANE COUNTY, WI",Madison,WI,Udacity
+MSP,Minneapolis/St. Paul (Int'l Airport),Minneapolis,MN,State Department
+MTH,"Marathon ARPT, FL",Marathon,FL,State Department
+MTY,"GEN M. ESCOBEDO, Monterrey, MX",,,Udacity
+MVD,"CARRASCO, URUGUAY",,,Udacity
+MWH,"MOSES LAKE GRANT COUNTY ARPT, WA",Moses Lake,WA,Udacity
+MYR,"Myrtle Beach, SC",Myrtle Beach,SC,State Department
+NAC,"Naco, AZ",Naco,AZ,State Department
+NAS,"Nassau, Bahamas",,,State Department
+NBO,"NAIROBI, KENYA",,,Udacity
+NC8,No PORT Code (NC8),,,Udacity
+NCA,"NORTH CAICOS, TURK & CAIMAN",,,Udacity
+NEA,"Neah Bay, WA",Neah Bay,WA,State Department
+NEC,"Neche, ND",Neche,ND,State Department
+NEW,"Newark, NJ",Newark,NJ,State Department
+NGL,No PORT Code (NGL),,,Udacity
+NIA,"Niagara Falls, NY",Niagara Falls,NY,State Department
+NIG,"Nighthawk, WA",Nighthawk,WA,State Department
+NIK,"Nikiski, AK",Nikiski,AK,State Department
+NK,No PORT Code (NK),,,Udacity
+NOG,"Nogales, AZ",Nogales,AZ,State Department
+NOL,"New Orleans, LA",New Orleans,LA,State Department
+NOM,"Nome, AK",Nome,AK,State Department
+NOO,"Noonan, ND",Noonan,ND,State Department
+NOR,"Norfolk, VA",Norfolk,VA,State Department
+NOY,"Noyes, MN",Noyes,MN,State Department
+NPT,"NEWPORT, OR",NEWPORT,OR,Udacity
+NPV,"Newport, VT",Newport,VT,State Department
+NPW,"Northport, WA",Northport,WA,State Department
+NRG,"Northgate, ND",Northgate,ND,State Department
+NRN,"Norton, VT",Norton,VT,State Department
+NRT,"North Troy, VT",North Troy,VT,State Department
+NSV,"Nashville, TN",Nashville,TN,State Department
+NWH,"New Haven, CT",New Haven,CT,State Department
+NWL,"New London, CT",New London,CT,State Department
+NWN,"Newport News, VA",Newport News,VA,State Department
+NYC,"New York, NY",New York,NY,State Department
+NYL,No PORT Code (NYL),,,Udacity
+OAI,No PORT Code (OAI),,,Udacity
+OAK,"Oakland, CA",Oakland,CA,State Department
+OGD,"Ogdensburg, NY",Ogdensburg,NY,State Department
+OGG,"KAHULUI - MAUI, HI",Kahului,HI,Udacity
+OGS,No PORT Code (OGS),,,Udacity
+OKC,"Oklahoma City, OK",Oklahoma City,OK,State Department
+OLM,No PORT Code (OLM),,,Udacity
+OLY,"Olympia, WA",Olympia,WA,State Department
+OMA,"Omaha, NE",Omaha,NE,State Department
+ONT,"ONTARIO, CA",ONTARIO,CA,Udacity
+OPF,"OPA LOCKA, FL",Miami,FL,Udacity
+OPH,"Opheim, MT",Opheim,MT,State Department
+ORI,"PORT LIONS SPB, AK",Port Lions,AK,Udacity
+ORL,"Orlando, FL",Orlando,FL,State Department
+ORO,"Oroville, WA",Oroville,WA,State Department
+OSN,No PORT Code (OSN),,,Udacity
+OSW,"Oswego, NY",Oswego,NY,State Department
+OTM,"Otay Mesa POE, CA",Otay Mesa,CA,State Department
+OTS,No PORT Code (OTS),,,Udacity
+OTT,"Ottawa,ÊCanada",,,State Department
+PAN,"Panama City, FL",Panama City,FL,State Department
+PAR,"Port Arthur, TX",Port Arthur,TX,State Department
+PAS,"Pascagoula, MS",Pascagoula,MS,State Department
+PAX,"Patuxent River, MD",Patuxent River,MD,State Department
+PBB,"Peace Bridge, NY",Peace Bridge,NY,State Department
+PCF,"Port Canaveral, FL",Port Canaveral,FL,State Department
+PCW,No PORT Code (PCW),,,Udacity
+PDN,"Paso del Norte, El Paso, TX",El Paso,TX,State Department
+PEK,"BEIJING CAPITAL INTL, PRC",,,Udacity
+PEM,"Pembina, ND",Pembina,ND,State Department
+PEN,"Pensacola, FL",Pensacola,FL,State Department
+PER,"Perth Amboy, NJ",Perth Amboy,NJ,State Department
+PEV,"Port Everglades, FL",Port Everglades,FL,State Department
+PFN,No PORT Code (PFN),,,Udacity
+PGR,"Progreso, TX",Progreso,TX,State Department
+PHF,No PORT Code (PHF),,,Udacity
+PHI,"Philadelphia, PA",Philadelphia,PA,State Department
+PHN,Collapsed (PHU) 06/15,Port Huron,MI,Udacity
+PHO,"Phoenix, AZ",Phoenix,AZ,State Department
+PHR,"Pharr, TX",Pharr,TX,State Department
+PHU,"Port Huron, MI",Port Huron,MI,State Department
+PHY,"Pacific Highway POE, WA",Blaine,WA,State Department
+PIA,"GREATER PEORIA, IL",GREATER PEORIA,IL,Udacity
+PIB,"Paradise, Island, Bahamas",,,State Department
+PIE,"Piegan, MT",Piegan,MT,State Department
+PIN,"Pine Creek, MN",Pine Creek,MN,State Department
+PIR,"POINT ROBERTS, WA",POINT ROBERTS,WA,Udacity
+PIT,"Pittsburgh, PA",Pittsburgh,PA,State Department
+PIV,"Pinnacle POE, VT",Richford,VT,State Department
+PIZ,"DEW STATION PT LAY DEW, AK",Point Lay,AK,Udacity
+PKC,"Poker Creek, AK",Poker Creek,AK,State Department
+PLB,No PORT Code (PLB),,,Udacity
+PNG,"Port Angeles, WA",Port Angeles,WA,State Department
+PNH,"Pittsburg, NH",Pittsburg,NH,State Department
+POE,"Port of El Paso, TX",El Paso,TX,State Department
+POM,"Portland, ME",Portland,ME,State Department
+PON,"Ponce, PR",Ponce,PR,State Department
+POO,"Portland, OR",Portland,OR,State Department
+POR,"Portal, ND",Portal,ND,State Department
+PRC,Prince Rupert BC Canada,,,State Department
+PRE,"Presidio, TX",Presidio,TX,State Department
+PRO,"Providence, RI",Providence,RI,State Department
+PSC,"TRI-CITIES - PASCO, WA",Pasco,WA,Udacity
+PSE,"PONCE-MERCEDITA, PR",Ponce,PR,Udacity
+PSJ,"Port St. Joe, FL",Port St. Joe,FL,State Department
+PSM,"Portsmouth, NH",Portsmouth,NH,State Department
+PSP,"PALM SPRINGS, CA",PALM SPRINGS,CA,Udacity
+PTK,"OAKLAND COUNTY - PONTIAC, MI",PONTIAC,MI,Udacity
+PTL,"Porthill, ID",Porthill,ID,State Department
+PTO,"Port Townsend, WA",Port Townsend,WA,State Department
+PTR,"Point Roberts, WA",Point Roberts,WA,State Department
+PTY,"OMAR TORRIJOS, PANAMA",,,Udacity
+PUT,"Put-in-Bay, OH",Put-in-Bay,OH,State Department
+PVD,"THEODORE FRANCIS - WARWICK, RI",WARWICK,RI,Udacity
+PWB,"PASCO, WA",PASCO,WA,Udacity
+RAN,"Ranier, MN",Ranier,MN,State Department
+RAY,"Raymond, MT",Raymond,MT,State Department
+RBB,"Niagara Falls, Rainbow Bridge, NY",Niagara Falls,NY,State Department
+RBT,"Roberts Landing, MI",Roberts Landing,MI,State Department
+RCM,"Richmond, VA",Richmond,VA,State Department
+RDM,"ROBERTS FIELDS - REDMOND, OR",REDMOND,OR,Udacity
+RDU,"Raleigh-Durham, NC",Raleigh,NC,State Department
+REN,"Reno, NV",Reno,NV,State Department
+RFD,"GREATER ROCKFORD, IL",GREATER ROCKFORD,IL,Udacity
+RGM,"RANGELEY, ME (BPS)",RANGELEY,ME,Udacity
+RIF,"Richford, VT",Richford,VT,State Department
+RIO,"Rio Grande City, TX",Rio Grande City,TX,State Department
+RIT,"Rome, Italy",,,State Department
+RIV,"RIVERSIDE, CA",RIVERSIDE,CA,Udacity
+RME,"ROME, NY",ROME,NY,Udacity
+RNO,"CANNON INTL - RENO/TAHOE, NV",Reno,NV,Udacity
+ROC,"Rochester, NY",Rochester,NY,State Department
+ROG,"ROGERS ARPT, AR",ROGERS,AR,Udacity
+ROM,"Roma, TX",Roma,TX,State Department
+ROO,"Roosville, MT",Roosville,MT,State Department
+ROS,"Roseau, MN",Roseau,MN,State Department
+ROU,"Rouses Point, NY",Rouses Point,NY,State Department
+RST,"ROCHESTER, MN",ROCHESTER,MN,Udacity
+RUI,"RUIDOSO, NM",RUIDOSO,NM,Udacity
+RYY,No PORT Code (RYY),,,Udacity
+SAA,"SANTA ANA, CA",SANTA ANA,CA,Udacity
+SAC,"Sacramento, CA",Sacramento,CA,State Department
+SAG,"Saginaw, MI",Saginaw,MI,State Department
+SAI,"SAIPAN, SPN",,,Udacity
+SAJ,"San Juan, PR",San Juan,PR,State Department
+SAN,"SAN SALVADOR, EL SALVADOR",,,Udacity
+SAR,"Sarles, ND",Sarles,ND,State Department
+SAS,"Sasabe, AZ",Sasabe,AZ,State Department
+SAU,"St. Augustine, FL",St. Augustine,FL,State Department
+SAV,"Savannah, GA",Savannah,GA,State Department
+SBN,"SOUTH BEND, IN",SOUTH BEND,IN,Udacity
+SBR,"South Brewer, ME",South Brewer,ME,State Department
+SCC,"BP SPEC COORD. CTR, TX",Center,TX,Udacity
+SCH,No PORT Code (SCH),,,Udacity
+SCL,"St. Clair, MI",St. Clair,MI,State Department
+SCO,"Scobey, MT",Scobey,MT,State Department
+SDP,"San Diego Intl. Airport, CA",San Diego,CA,State Department
+SDY,"Sandusky, OH",Sandusky,OH,State Department
+SEA,"Seattle, WA",Seattle,WA,State Department
+SET,"Seattle-Tacoma, WA",Seattle,WA,State Department
+SFB,"Sanford, FL",Sanford,FL,State Department
+SFR,"San Francisco, CA",San Francisco,CA,State Department
+SGF,"SPRINGFIELD-BRANSON, MO",Springfield,MO,Udacity
+SGJ,"ST AUGUSTINE ARPT, FL",ST AUGUSTINE,FL,Udacity
+SGR,"HULL FIELD, SUGAR LAND ARPT, TX",SUGAR LAND,TX,Udacity
+SHA,"Shannon, Ireland",,,State Department
+SHR,"Sherwood, ND",Sherwood,ND,State Department
+SJO,"St. John, ND",St. John,ND,State Department
+SKA,"Skagway, AK",Skagway,AK,State Department
+SLC,"Salt Lake City, UT",Salt Lake City,UT,State Department
+SLI,"SAN LUIS OBISPO, CA (BPS)",San Luis Obispo,CA,Udacity
+SLO,"San Luis Obispo, CA",San Luis Obispo,CA,State Department
+SLP,"SAN LUIS POTOSI #ARPT, MEXICO",,,Udacity
+SLS,"SALINAS, CA (BPS)",SALINAS,CA,Udacity
+SLU,"San Luis, AZ",San Luis,AZ,State Department
+SNA,"San Antonio, TX",San Antonio,TX,State Department
+SND,"San Diego, CA",San Diego,CA,State Department
+SNJ,"San Jose, CA",San Jose,CA,State Department
+SNN,"Shannon, Ireland",,,State Department
+SNO,"SAKON NAKHON #ARPT, THAILAND",,,Udacity
+SNP,"ST. PAUL ISLAND, AK",St Paul,AK,Udacity
+SP0,No PORT Code (SP0),,,Udacity
+SPA,"St. Pamphile, ME",St. Pamphile,ME,State Department
+SPC,"San Pedro, CA",San Pedro,CA,State Department
+SPE,"St. Petersburg, FL",St. Petersburg,FL,State Department
+SPF,"BLACK HILLS, SPEARFISH, SD",SPEARFISH,SD,Udacity
+SPI,"CAPITAL - SPRINGFIELD, IL",SPRINGFIELD,IL,Udacity
+SPM,"St. Paul, MN",St. Paul,MN,State Department
+SPN,Saipan,Saipan,,State Department
+SPO,"Spokane, WA",Spokane,WA,State Department
+SPV,"PAPUA, NEW GUINEA",,,Udacity
+SRL,"St. Aurelie, ME",St. Aurelie,ME,State Department
+SRO,"SANTANA RAMOS #ARPT, COLOMBIA",,,Udacity
+SRQ,"BRADENTON - SARASOTA, FL",SARASOTA,FL,Udacity
+SSB,"Sanford, Fl",Sanford,Fl,State Department
+SSC,"SHAW AFB - SUMTER, NC",SUMTER,NC,Udacity
+SSM,"Sault Ste. Marie, MI",Sault Ste. Marie,MI,State Department
+STA,"St. Albans, VT",St. Albans,VT,State Department
+STJ,"St. John, USVI",St. John,VI,State Department
+STL,"St. Louis, MO",St. Louis,MO,State Department
+STN,Collapsed (STR) 06/15,Santa Teresa,NM,Udacity
+STO,"STOCKTON, CA (BPS)",STOCKTON,CA,Udacity
+STR,"Santa Teresa, NM",Santa Teresa,NM,State Department
+STT,"ST THOMAS, VI",ST THOMAS,VI,Udacity
+STZ,"St. Zacharie, ME",St. Zacharie,ME,State Department
+SUM,"Sumas, WA",Sumas,WA,State Department
+SUS,No PORT Code (SUS),,,Udacity
+SVC,"GRANT COUNTY - SILVER CITY, MN",SILVER CITY,MN,Udacity
+SWB,"SWANTON, VT (BP - SECTOR HQ)",SWANTON,VT,Udacity
+SWE,"Sweetgrass, MT",Sweetgrass,MT,State Department
+SWF,"STEWART - ORANGE CNTY, NY",New Windsor,NY,Udacity
+SYR,"Syracuse, NY",Syracuse,NY,State Department
+SYS,"San Ysidro, CA",San Ysidro,CA,State Department
+T01,Collapsed (SEA) 06/15,Seattle,WA,Udacity
+TAC,"Tacoma, WA",Tacoma,WA,State Department
+TAM,"Tampa, FL",Tampa,FL,State Department
+TEC,"Tecate, CA",Tecate,CA,State Department
+THO,"Thousand Islands Bridge, NY",Alexandria Bay,NY,State Department
+TIW,No PORT Code (TIW),,,Udacity
+TKI,"TOKEEN, AK",TOKEEN,AK,Udacity
+TOK,"TOROKINA #ARPT, PAPUA, NEW GUINEA",,,Udacity
+TOL,"Toledo, OH",Toledo,OH,State Department
+TOR,"Toronto, Ontario Canada",,,State Department
+TRI,"TRI CITY ARPT, TN",Blountville,TN,Udacity
+TRL,"Trail Creek, MT",Trail Creek,MT,State Department
+TRO,"Trout River, NY",Trout River,NY,State Department
+TRV,"Travis AFB, CA",Fairfield,CA,State Department
+TST,"NEWINGTON DATA CENTER TEST, CT",Newington,CT,Udacity
+TUC,"Tucson, AZ",Tucson,AZ,State Department
+TUL,"TULSA, OK",TULSA,OK,Udacity
+TUR,"Turner, MT",Turner,MT,State Department
+TYS,"MC GHEE TYSON - ALCOA, TN",ALCOA,TN,Udacity
+UGN,"MEMORIAL - WAUKEGAN, IL",WAUKEGAN,IL,Udacity
+UIO,"QUITO (MARISCAL SUCR), ECUADOR",,,Udacity
+UNK,UNKNOWN POE,,,Udacity
+VAN,"Vancouver, WA",Vancouver,WA,State Department
+VCB,"Vanceboro, ME",Vanceboro,ME,State Department
+VCV,"Vancouver, BC Canada",,,State Department
+VER,"VERACRUZ, MEXICO",,,Udacity
+VIB,Veterans International Bridge,Brownsville,TX,State Department
+VIC,"Victoria, BC",Victoria,BC,State Department
+VMB,Collapsed (VNB) 06/15,Van Buren,ME,Udacity
+VNB,"Van Buren, ME",Van Buren,ME,State Department
+VNY,"VAN NUYS, CA",VAN NUYS,CA,Udacity
+VQS,"VIEQUES-ARPT, PR",VIEQUES,PR,Udacity
+W55,No PORT Code (W55),,,Udacity
+WA5,No PORT Code (WAS),,,Udacity
+WAL,"Walhalla, ND",Walhalla,ND,State Department
+WAR,"Warroad, MN",Warroad,MN,State Department
+WAS,"Washington, DC",Washington,DC,State Department
+WAT,"WATERTOWN, NY",WATERTOWN,NY,Udacity
+WBE,"West Berkshire, VT",West Berkshire,VT,State Department
+WCM,"Willow Creek, MT",Willow Creek,MT,State Department
+WHI,"Whitetail, MT",Whitetail,MT,State Department
+WHM,"Wildhorse, MT",Wildhorse,MT,State Department
+WHO,"Westhope, ND",Westhope,ND,State Department
+WHR,Whirlpool Bridge,Niagara Falls,NY,State Department
+WHT,"Whitlash, MT",Whitlash,MT,State Department
+WIL,"Wilmington, NC",Wilmington,NC,State Department
+WIN,"Winnipeg, SK. Canada",,,State Department
+WLL,"Wilmington, DE",Wilmington,DE,State Department
+WND,"Williston, ND (Int'l Airport)",Williston,ND,State Department
+WPB,"West Palm Beach, FL",West Palm Beach,FL,State Department
+WRA,"Wrangell, AK",Wrangell,AK,State Department
+WRB,Whirlpool Bridge,Niagara Falls,NY,State Department
+WRI,"MC GUIRE AFB - WRIGHTSOWN, NJ",WRIGHTSOWN,NJ,Udacity
+WSB,"WARROAD INTL, SPB, MN",WARROAD,MN,Udacity
+WTR,No PORT Code (WTR),,,Udacity
+X44,No PORT Code (X44),,,Udacity
+X96,No PORT Code (X96),,,Udacity
+XNA,No PORT Code (XNA),,,Udacity
+XXX,NOT REPORTED/UNKNOWN,,,Udacity
+Y62,No PORT Code (Y62),,,Udacity
+YAK,"Yakima, WA",Yakima,WA,State Department
+YGF,No PORT Code (YGF),,,Udacity
+YHC,"HAKAI PASS, CANADA",,,Udacity
+YIP,"WILLOW RUN - YPSILANTI, MI",Ypsilanti,MI,Udacity
+YOU,"Youngstown, NY",Youngstown,NY,State Department
+YSL,"Ysleta, TX",Ysleta,TX,State Department
+YUI,"Yuma, AZ",Yuma,AZ,State Department
+YUM,"YUMA, AZ",YUMA,AZ,Udacity
+YXE,"SASKATOON, CANADA",,,Udacity
+ZZZ,MEXICO Land (Banco de Mexico),,,Udacity
